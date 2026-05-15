@@ -55,5 +55,3 @@ pipeline {
         }
     }
 }
-
-jenkinsfile for frontend
