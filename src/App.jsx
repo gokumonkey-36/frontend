@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API = "http://backend-service:5000/api";
+const API = "http://a688f1880d76343a6a29fad006a6173e-1205727444.ap-south-1.elb.amazonaws.com:5000/api";
 
 const palette = {
   bg: "#0f0e11",
