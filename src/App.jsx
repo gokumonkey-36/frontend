@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API = "http://localhost:5000/api";
+const API = "http://backend-service:5000/api";
 
 const palette = {
   bg: "#0f0e11",
