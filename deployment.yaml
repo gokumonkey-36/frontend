@@ -35,7 +35,7 @@ spec:
     spec:
       containers:
       - name: mywebsite
-        image: gokumonkey/frontend:v1
+        image: gokumonkey/frontend:1
         imagePullPolicy: Always
 
         ports:
